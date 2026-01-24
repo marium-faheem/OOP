@@ -24,16 +24,16 @@ int main(){
     BankAccount acc;
     cout<<"Welcome to abc banking system!\n";
     cout<<"Press (1.Deposit 2.Withdraw): ";
-    cin>>acc.choice;
-    if(acc.choice==1){
+    cin>>choice;
+    if(choice==1){
         cout<<"Enter ammount to Deposit: ";
-        cin>>acc.m;
-        acc.deposit(acc.m);
+        cin>>m;
+        acc.deposit(m);
     }
-    else if(acc.choice==2){
+    else if(choice==2){
         cout<<"Enter ammount to Withdraw: ";
-        cin>>acc.m;
-        acc.withdraw(acc.m);
+        cin>>m;
+        acc.withdraw(m);
     }
     else{
         cout<<"Invalid Choice.";
