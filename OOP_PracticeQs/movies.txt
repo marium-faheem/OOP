@@ -1,0 +1,5 @@
+1|Inception|English|8.8|2010|Sci-Fi|148|Christopher Nolan|PG-13
+2|The Dark Knight|English|9|2008|Action|152|Christopher Nolan|PG-13
+3|Parasite|Korean|8.5|2019|Thriller|132|Bong Joon-ho|R
+4|Interstellar|English|8.6|2014|Sci-Fi|169|Christopher Nolan|PG-13
+5|The Godfather|English|9.2|1972|Crime|175|Francis Ford Coppola|R
